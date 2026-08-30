@@ -19,20 +19,6 @@ DSA patterns and concepts.
 - Greedy
 - Dynamic Programming
 
-## 📊 Progress
-
-| Topic | Problems Solved |
-|-------|-----------------:|
-| Arrays |  |
-| Strings |  |
-| Linked List |  |
-| Stack |  |
-| Queue |  |
-| Trees |  |
-| Graphs |  |
-| Greedy |  |
-| Dynamic Programming |  |
-
 ## 🎯 Goals
 
 - Solve DSA problems consistently
